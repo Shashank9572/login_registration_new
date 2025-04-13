@@ -13,11 +13,9 @@ This project demonstrates clean form design, reusable widgets, and route navigat
 
 ## Screenshots
 
-> (Add actual screenshots later if possible)
-
 | Login Screen | Registration Screen |
-|--------------|---------------------|
-| ![Login](screenshots/login.png) | ![Register](screenshots/register.png) |
+| ------------ | ------------------- |
+| ![Login](login.png) | ![Register](register.png) |
 
 ## Getting Started
 
