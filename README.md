@@ -1,16 +1,29 @@
-# login_registration_new
+# Login & Registration App (Flutter)
 
-A new Flutter project.
+A modern, responsive login and registration UI built using Flutter.  
+This project demonstrates clean form design, reusable widgets, and route navigation.
+
+## Features
+
+- Login Screen with email & password validation
+- Registration Screen with confirm password field
+- Reusable CustomTextField widget
+- Smooth navigation between screens
+- Clean and structured Flutter project
+
+## Screenshots
+
+> (Add actual screenshots later if possible)
+
+| Login Screen | Registration Screen |
+|--------------|---------------------|
+| ![Login](screenshots/login.png) | ![Register](screenshots/register.png) |
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. *Clone the repository*
+```bash
+git clone https://github.com/Shashank9572/login_registration_new.git
+cd login_registration_new
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
